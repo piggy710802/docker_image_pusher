@@ -1,6 +1,6 @@
 #支持私库
-library/mysql
+mysql
 #支持指定架构
---platform=linux/aarch64 library/mysql
---platform=linux/arm64 library/mysql
+--platform=linux/aarch64 mysql
+--platform=linux/arm64 mysql
 
