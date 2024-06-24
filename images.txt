@@ -1,6 +1,6 @@
 #支持私库
 mysql
 #支持指定架构
---platform=linux/aarch64 mysql
---platform=linux/arm64 mysql
+--platform=linux/aarch64 wcjiang/linux-command 
+--platform=linux/arm64 wcjiang/linux-command 
 
