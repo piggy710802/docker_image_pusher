@@ -10,7 +10,7 @@
 #aarch64，aarch64和arm64是一回事，都是64位。是ARMv8 架构的一种执行状态
 --platform=linux/aarch64 library/mysql
 --platform=linux/aarch64 wcjiang/linux-command 
-
+--platform=linux/aarch64  mikesplain/openvas
 #aarch32，是32位执行态
 
 
