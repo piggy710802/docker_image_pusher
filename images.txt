@@ -1,17 +1,20 @@
 #支持私库
 
 #支持指定架构
+
 #AMD64，纯64位 = X86-64
 --platform=linux/amd64 library/mysql
 --platform=linux/amd64 wcjiang/linux-command 
 
-#x86，纯32位 
-
 #aarch64，aarch64和arm64是一回事，都是64位。是ARMv8 架构的一种执行状态
 --platform=linux/aarch64 library/mysql
 --platform=linux/aarch64 wcjiang/linux-command 
---platform=linux/aarch64  mikesplain/openvas
+--platform=linux/aarch64  redis
+--platform=linux/aarch64 jumpserver/jms_all
+
+#x86，纯32位 
 #aarch32，是32位执行态
+
 
 
 
