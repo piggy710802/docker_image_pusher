@@ -2,6 +2,12 @@
 
 #支持指定架构
 
+#x86，纯32位 
+# --platform=linux/x86
+
+#aarch32，是32位执行态
+# --platform=linux/aarch32
+
 #AMD64，纯64位 = X86-64
 --platform=linux/amd64 library/mysql
 --platform=linux/amd64 wcjiang/linux-command 
@@ -11,9 +17,8 @@
 --platform=linux/aarch64 wcjiang/linux-command 
 --platform=linux/aarch64  redis
 --platform=linux/aarch64 jumpserver/jms_all
+--platform=linux/aarch64 portainer/portainer-ce
 
-#x86，纯32位 
-#aarch32，是32位执行态
 
 
 
