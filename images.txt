@@ -25,7 +25,7 @@
 ##  办公室在用
 ##-已完成 --platform=linux/amd64 guacamole/guacd
 ##-已完成 --platform=linux/amd64 guacamole/guacamole
-
+--platform=linux/amd64celaraze/chemex
 ##-已完成 --platform=linux/amd64 tomcat:8.5.51
 ##-已完成 --platform=linux/amd64 louislam/uptime-kuma
 ##-已完成 --platform=linux/amd64 daniloancilotto/phpvirtualbox:5.2-1
