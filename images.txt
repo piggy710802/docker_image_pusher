@@ -37,7 +37,7 @@
 --platform=linux/amd64 analogic/poste.io:latest
 --platform=linux/amd64 oldiy/chrome-novnc:latest
 --platform=linux/amd64 johngong/calibre-web :latest
---platform=linux/amd64 xhofe/alist:latest:latest
+## --platform=linux/amd64 xhofe/alist:latest:latest
 
 #aarch64，aarch64和arm64是一回事，都是64位。是ARMv8 架构的一种执行状态
 ##-已完成 --platform=linux/aarch64 wcjiang/linux-command 
