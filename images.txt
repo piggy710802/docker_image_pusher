@@ -1,3 +1,5 @@
+# 注意：同时下载的镜像数是：4个。
+
 #支持私库
 
 #支持指定架构
@@ -32,12 +34,12 @@
 ##-已完成 --platform=linux/amd64 stilleshan/frps
 
 ## 家里黑群在用
---platform=linux/amd64 nyanmisaka/jellyfin:latest
---platform=linux/amd64 vaultwarden/server:latest
---platform=linux/amd64 analogic/poste.io:latest
---platform=linux/amd64 oldiy/chrome-novnc:latest
-## --platform=linux/amd64 johngong/calibre-web :latest
-## --platform=linux/amd64 xhofe/alist:latest:latest
+##-已完成 --platform=linux/amd64 nyanmisaka/jellyfin:latest
+##-已完成 --platform=linux/amd64 vaultwarden/server:latest
+##-已完成 --platform=linux/amd64 analogic/poste.io:latest
+##-已完成 --platform=linux/amd64 oldiy/chrome-novnc:latest
+--platform=linux/amd64 johngong/calibre-web :latest
+--platform=linux/amd64 xhofe/alist:latest:latest
 
 #aarch64，aarch64和arm64是一回事，都是64位。是ARMv8 架构的一种执行状态
 ##-已完成 --platform=linux/aarch64 wcjiang/linux-command 
