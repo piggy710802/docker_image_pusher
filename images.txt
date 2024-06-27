@@ -11,9 +11,17 @@
 #AMD64，纯64位 = X86-64
 --platform=linux/amd64 wcjiang/linux-command 
 
+## Jumpserver留存
 --platform=linux/amd64 library/mysql
 --platform=linux/amd64  redis
 --platform=linux/amd64 jumpserver/jms_all
+
+## zabbix留存
+--platform=linux/amd64 zabbix/zabbix-java-gateway:alpine-6.2-latest
+--platform=linux/amd64  zabbix/zabbix-server-mysql:6.2-alpine-latest
+--platform=linux/amd64 zabbix/zabbix-web-nginx-mysql:alpine-6.2-latest
+--platform=linux/amd64 zabbix/zabbix-agent:alpine-6.2-latest
+
 
 
 #aarch64，aarch64和arm64是一回事，都是64位。是ARMv8 架构的一种执行状态
