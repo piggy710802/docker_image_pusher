@@ -37,7 +37,9 @@
 ##-已完成 --platform=linux/amd64 daniloancilotto/phpvirtualbox:5.2-1
 ##-已完成 --platform=linux/amd64 stilleshan/frps
 ##-已完成 --platform=linux/amd64 portainer/portainer-ce:2.20.3
-
+--platform=linux/amd64 grafana/grafana
+--platform=linux/amd64 realwang/wol-web
+--platform=linux/amd64 mikesplain/openvas
 ## 家里黑群在用
 ##-已完成 --platform=linux/amd64 nyanmisaka/jellyfin:latest
 ##-已完成 --platform=linux/amd64 vaultwarden/server:latest
@@ -45,7 +47,7 @@
 ##-已完成 --platform=linux/amd64 oldiy/chrome-novnc:latest
 ##-已完成 --platform=linux/amd64 johngong/calibre-web:latest
 ##-已完成 --platform=linux/amd64 xhofe/alist:latest
---platform=linux/amd64 helloz/onenav
+##-已完成 --platform=linux/amd64 helloz/onenav
 #--------------------------------------------------------------------------------------------------------------------#
 #aarch64，aarch64和arm64是一回事，都是64位。是ARMv8 架构的一种执行状态
 
