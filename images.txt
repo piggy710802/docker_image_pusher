@@ -40,8 +40,9 @@
 ##-已完成 --platform=linux/amd64 grafana/grafana
 ##-已完成 --platform=linux/amd64 realwang/wol-web
 ##-已完成 --platform=linux/amd64 mikesplain/openvas
+##-已完成 --platform=linux/amd64 sonatype/nexus3
 
-	--platform=linux/amd64 sonatype/nexus3
+
 
 ## 家里黑群在用
 ##-已完成 --platform=linux/amd64 nyanmisaka/jellyfin:latest
@@ -62,7 +63,7 @@
 
 ##-已完成 --platform=linux/aarch64 portainer/portainer-ce
 
---platform=linux/aarch64 sonatype/nexus3
+
 
 
 
