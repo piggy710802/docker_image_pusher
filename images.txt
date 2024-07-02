@@ -43,6 +43,9 @@
 ##-已完成 --platform=linux/amd64 sonatype/nexus3
 
 
+--platform=linux/amd64 liuxipo/itvall:latest
+
+ --platform=linux/amd64 herberthe0229/iptv-sources:latest
 
 ## 家里黑群在用
 ##-已完成 --platform=linux/amd64 nyanmisaka/jellyfin:latest
