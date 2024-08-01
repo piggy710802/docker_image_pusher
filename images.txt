@@ -56,6 +56,10 @@
 ##-已完成 --platform=linux/amd64 johngong/calibre-web:latest
 ##-已完成 --platform=linux/amd64 xhofe/alist:latest
 ##-已完成 --platform=linux/amd64 helloz/onenav
+
+--platform=linux/amd64 gdy666/lucky
+--platform=linux/amd64  gotify/server
+
 #--------------------------------------------------------------------------------------------------------------------#
 #aarch64，aarch64和arm64是一回事，都是64位。是ARMv8 架构的一种执行状态
 
