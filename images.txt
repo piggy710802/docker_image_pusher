@@ -41,12 +41,9 @@
 ##-已完成 --platform=linux/amd64 realwang/wol-web
 ##-已完成 --platform=linux/amd64 mikesplain/openvas
 ##-已完成 --platform=linux/amd64 sonatype/nexus3
-
-
- ##-已完成 --platform=linux/amd64 herberthe0229/iptv-sources:latest
-
- --platform=linux/amd64 containrrr/watchtower
-
+##-已完成 --platform=linux/amd64 containrrr/watchtower
+##-已完成 --platform=linux/amd64 lissy93/web-check
+--platform=linux/amd64 aceberg/watchyourlan
 
 ## 家里黑群在用
 ##-已完成 --platform=linux/amd64 nyanmisaka/jellyfin:latest
@@ -58,8 +55,8 @@
 ##-已完成 --platform=linux/amd64 helloz/onenav
 ##-已完成 --platform=linux/amd64 gdy666/lucky
 ##-已完成 --platform=linux/amd64  gotify/server
+##-已完成 --platform=linux/amd64 herberthe0229/iptv-sources:latest
 
---platform=linux/amd64 lissy93/web-check
 #--------------------------------------------------------------------------------------------------------------------#
 #aarch64，aarch64和arm64是一回事，都是64位。是ARMv8 架构的一种执行状态
 
