@@ -67,5 +67,9 @@
 ##-已完成 --platform=linux/aarch64 library/mysql
 ##-已完成 --platform=linux/aarch64  redis
 ##-已完成 --platform=linux/aarch64 jumpserver/jms_all
-
 ##-已完成 --platform=linux/aarch64 portainer/portainer-ce
+
+
+--platform=linux/aarch64 frooodle/s-pdf
+
+
