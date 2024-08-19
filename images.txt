@@ -59,6 +59,9 @@
 ##-已完成 --platform=linux/amd64  gotify/server
 ##-已完成 --platform=linux/amd64 herberthe0229/iptv-sources:latest
 
+--platform=linux/amd64 4gray/iptvnator
+--platform=linux/amd64 4gray/iptvnator-backend
+
 #--------------------------------------------------------------------------------------------------------------------#
 #aarch64，aarch64和arm64是一回事，都是64位。是ARMv8 架构的一种执行状态
 
