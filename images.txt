@@ -61,7 +61,7 @@
 
 --platform=linux/amd64 4gray/iptvnator
 --platform=linux/amd64 4gray/iptvnator-backend
-
+--platform=linux/amd64 gotify/server
 #--------------------------------------------------------------------------------------------------------------------#
 #aarch64，aarch64和arm64是一回事，都是64位。是ARMv8 架构的一种执行状态
 
@@ -71,8 +71,7 @@
 ##-已完成 --platform=linux/aarch64  redis
 ##-已完成 --platform=linux/aarch64 jumpserver/jms_all
 ##-已完成 --platform=linux/aarch64 portainer/portainer-ce
-
-
---platform=linux/aarch64 frooodle/s-pdf
+##-已完成 (HuaWei-Laptop)--platform=linux/aarch64 frooodle/s-pdf
+--platform=linux/aarch64 zhongpei/smartping 
 
 
