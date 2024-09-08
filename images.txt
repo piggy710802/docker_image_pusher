@@ -36,7 +36,6 @@
 ##-已完成 --platform=linux/amd64 louislam/uptime-kuma
 ##-已完成 --platform=linux/amd64 daniloancilotto/phpvirtualbox:5.2-1
 ##-已完成 --platform=linux/amd64 stilleshan/frps
-##-已完成 --platform=linux/amd64 portainer/portainer-ce:2.20.3
 ##-已完成 --platform=linux/amd64 grafana/grafana
 ##-已完成 --platform=linux/amd64 realwang/wol-web
 ##-已完成 --platform=linux/amd64 mikesplain/openvas
@@ -45,6 +44,8 @@
 ##-已完成 --platform=linux/amd64 lissy93/web-check
 ##-已完成 --platform=linux/amd64 aceberg/watchyourlan
 ##-已完成 --platform=linux/amd64 frooodle/s-pdf
+##-已完成 
+--platform=linux/amd64 portainer/portainer-ce:2.21.0
 
 
 ## 家里黑群在用
@@ -57,13 +58,14 @@
 ##-已完成 --platform=linux/amd64 helloz/onenav
 ##-已完成 --platform=linux/amd64 gdy666/lucky
 ##-已完成 --platform=linux/amd64  gotify/server
-## registry.cn-hangzhou.aliyuncs.com/pull-images/linux_amd64_server
+##  gotify下载后的映像名字：registry.cn-hangzhou.aliyuncs.com/pull-images/linux_amd64_server
 ##-已完成 --platform=linux/amd64 herberthe0229/iptv-sources:latest
 
 ##-已完成 --platform=linux/amd64 4gray/iptvnator
 ##-已完成 --platform=linux/amd64 4gray/iptvnator-backend
 ##-已完成 --platform=linux/amd64 zhongpei/smartping 
 #--------------------------------------------------------------------------------------------------------------------#
+
 #aarch64，aarch64和arm64是一回事，都是64位。是ARMv8 架构的一种执行状态
 
 ##-已完成 --platform=linux/aarch64 wcjiang/linux-command 
@@ -72,7 +74,7 @@
 ##-已完成 --platform=linux/aarch64  redis
 ##-已完成 --platform=linux/aarch64 jumpserver/jms_all
 ##-已完成 --platform=linux/aarch64 portainer/portainer-ce
-##-已完成 (HuaWei-Laptop)--platform=linux/aarch64 frooodle/s-pdf
+##-已完成 (HuaWei笔记本安装)--platform=linux/aarch64 frooodle/s-pdf
 
 
 
