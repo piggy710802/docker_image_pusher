@@ -66,6 +66,7 @@
 ##-已完成 --platform=linux/amd64 4gray/iptvnator
 ##-已完成 --platform=linux/amd64 4gray/iptvnator-backend
 ##-已完成 --platform=linux/amd64 zhongpei/smartping 
+--platform=linux/amd64 mzz2017/v2raya
 #--------------------------------------------------------------------------------------------------------------------#
 
 #aarch64，aarch64和arm64是一回事，都是64位。是ARMv8 架构的一种执行状态
