@@ -48,7 +48,7 @@
 ##-已完成 --platform=linux/amd64 corentinth/it-tools
 
 --platform=linux/amd64 portainer/portainer-ce:2.21.4
-
+--platform=linux/amd64 usual2970/certimate
 ##-留存，未用 --platform=linux/amd64 samwaf/samwaf
 
 
