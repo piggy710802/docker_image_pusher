@@ -67,7 +67,7 @@
 --platform=linux/amd64 xhofe/alist:latest
 
 ##-已完成 
---platform=linux/amd64 gdy666/lucky:2.14.10
+--platform=linux/amd64 gdy666/lucky:2.14.0
 
 ##-已完成 --platform=linux/amd64  gotify/server
 ##  gotify下载后的映像名字：registry.cn-hangzhou.aliyuncs.com/pull-images/linux_amd64_server
