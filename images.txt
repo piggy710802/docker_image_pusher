@@ -33,8 +33,10 @@
 ##-已完成 --platform=linux/amd64 guacamole/guacamole
 ##-已完成 --platform=linux/amd64 celaraze/chemex
 ##-已完成 --platform=linux/amd64 tomcat:8.5.64
+
 ##-已完成 
 --platform=linux/amd64 louislam/uptime-kuma:2.0.0-beta.0
+
 ##-已完成 --platform=linux/amd64 daniloancilotto/phpvirtualbox:5.2-1
 ##-已完成 --platform=linux/amd64 stilleshan/frps
 ##-已完成 --platform=linux/amd64 grafana/grafana
@@ -59,10 +61,14 @@
 ##-已完成 --platform=linux/amd64 analogic/poste.io:latest
 ##-已完成 --platform=linux/amd64 oldiy/chrome-novnc:latest
 ##-已完成 --platform=linux/amd64 johngong/calibre-web:latest
+##-已完成 --platform=linux/amd64 helloz/onenav
+
 ##-已完成 
 --platform=linux/amd64 xhofe/alist:latest
-##-已完成 --platform=linux/amd64 helloz/onenav
-##-已完成 --platform=linux/amd64 gdy666/lucky
+
+##-已完成 
+--platform=linux/amd64 gdy666/lucky:2.14.10
+
 ##-已完成 --platform=linux/amd64  gotify/server
 ##  gotify下载后的映像名字：registry.cn-hangzhou.aliyuncs.com/pull-images/linux_amd64_server
 ##-已完成 --platform=linux/amd64 herberthe0229/iptv-sources:latest
@@ -82,4 +88,3 @@
 ##-已完成 --platform=linux/aarch64 portainer/portainer-ce:2.21.4
 ##-已完成 --platform=linux/aarch64 corentinth/it-tools
 ##-已完成 --platform=linux/aarch64 mzz2017/v2raya
---platform=linux/aarch64 dockurr/windows
