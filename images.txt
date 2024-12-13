@@ -57,7 +57,7 @@
 
 ## 家里黑群在用
 ##-已完成 
---platform=linux/amd64 nyanmisaka/jellyfin::latest
+--platform=linux/amd64 nyanmisaka/jellyfin:latest
 ##-已完成 --platform=linux/amd64 vaultwarden/server:latest
 ##-已完成 --platform=linux/amd64 analogic/poste.io:latest
 ##-已完成 --platform=linux/amd64 oldiy/chrome-novnc:latest
