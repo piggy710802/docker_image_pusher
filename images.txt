@@ -41,7 +41,8 @@
 ##-已完成 --platform=linux/amd64 stilleshan/frps
 ##-已完成 --platform=linux/amd64 grafana/grafana
 ##-已完成 --platform=linux/amd64 realwang/wol-web
-##-已完成 --platform=linux/amd64 mikesplain/openvas
+##-已完成 
+--platform=linux/amd64 mikesplain/openvas:latest
 ##-已完成 --platform=linux/amd64 sonatype/nexus3
 ##-已完成 --platform=linux/amd64 containrrr/watchtower
 ##-已完成 --platform=linux/amd64 lissy93/web-check
