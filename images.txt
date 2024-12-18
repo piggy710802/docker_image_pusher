@@ -1,6 +1,7 @@
 
 --platform=linux/amd64 registry.community.greenbone.net/community/vulnerability-tests
 
+--platform=linux/amd64 greenbone/greenbone-feed-sync
 
 #支持私库
 
