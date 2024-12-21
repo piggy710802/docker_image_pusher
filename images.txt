@@ -1,13 +1,15 @@
 
 --platform=linux/amd64 registry.community.greenbone.net/community/vulnerability-tests
-
 --platform=linux/amd64 greenbone/greenbone-feed-sync
 
+
 --platform=linux/amd64 mongo:5.0
-
-
 --platform=linux/amd64 graylog/graylog:6.1
 --platform=linux/amd64 graylog/graylog-datanode:6.1
+
+--platform=linux/aarch64 mongo:5.0
+--platform=linux/aarch64 graylog/graylog:6.1
+--platform=linux/aarch64 graylog/graylog-datanode:6.1
 
 #支持私库
 
