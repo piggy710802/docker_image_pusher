@@ -1,18 +1,4 @@
 
---platform=linux/amd64 registry.community.greenbone.net/community/vulnerability-tests
---platform=linux/amd64 greenbone/greenbone-feed-sync
-
-
---platform=linux/amd64 mongo:5.0
---platform=linux/amd64 graylog/graylog:6.1
---platform=linux/amd64 graylog/graylog-datanode:6.1
-
---platform=linux/aarch64 mongo:5.0
---platform=linux/aarch64 graylog/graylog:6.1
---platform=linux/aarch64 graylog/graylog-datanode:6.1
-
---platform=linux/aarch64 amir20/dozzle
-
 #支持私库
 
 #支持指定架构
@@ -20,7 +6,6 @@
 #--------------------------------------------------------------------------------------------------------------------#
 #x86，纯32位 
 # --platform=linux/x86
-
 
 #--------------------------------------------------------------------------------------------------------------------#
 #aarch32，是32位执行态
@@ -30,8 +15,7 @@
 #--------------------------------------------------------------------------------------------------------------------#
 #AMD64，纯64位 = X86-64
 
---platform=linux/amd64 amir20/dozzle
-
+##-已完成 --platform=linux/amd64 amir20/dozzle
 ##-已完成 --platform=linux/amd64 wcjiang/linux-command 
 
 ## Jumpserver留存
@@ -51,24 +35,27 @@
 ##-已完成 --platform=linux/amd64 celaraze/chemex
 ##-已完成 --platform=linux/amd64 tomcat:8.5.64
 
-##-已完成 
---platform=linux/amd64 louislam/uptime-kuma:2.0.0-beta.0
+##-已完成 --platform=linux/amd64 louislam/uptime-kuma:2.0.0-beta.0
 
 ##-已完成 --platform=linux/amd64 daniloancilotto/phpvirtualbox:5.2-1
 ##-已完成 --platform=linux/amd64 stilleshan/frps
 ##-已完成 --platform=linux/amd64 grafana/grafana
 ##-已完成 --platform=linux/amd64 realwang/wol-web
-##-已完成 
---platform=linux/amd64 mikesplain/openvas:latest
+##-已完成 --platform=linux/amd64 mikesplain/openvas:latest
+
+##-已完成graylog --platform=linux/amd64 mongo:5.0
+##-已完成graylog --platform=linux/amd64 graylog/graylog:6.1
+##-已完成graylog --platform=linux/amd64 graylog/graylog-datanode:6.1
+
+
 ##-已完成 --platform=linux/amd64 sonatype/nexus3
 ##-已完成 --platform=linux/amd64 containrrr/watchtower
 ##-已完成 --platform=linux/amd64 lissy93/web-check
 ##-已完成 --platform=linux/amd64 aceberg/watchyourlan
 ##-已完成 --platform=linux/amd64 frooodle/s-pdf
-##-已完成 --platform=linux/amd64 portainer/portainer-ce:2.21.4
 ##-已完成 --platform=linux/amd64 corentinth/it-tools
 ##-已完成 --platform=linux/amd64 usual2970/certimate
---platform=linux/amd64 portainer/portainer-ce:2.21.5
+##-已完成 --platform=linux/amd64 portainer/portainer-ce:2.21.5
 
 ##-留存，未用 --platform=linux/amd64 samwaf/samwaf
 
@@ -81,12 +68,8 @@
 ##-已完成 --platform=linux/amd64 oldiy/chrome-novnc:latest
 ##-已完成 --platform=linux/amd64 johngong/calibre-web:latest
 ##-已完成 --platform=linux/amd64 helloz/onenav
-
-##-已完成 
---platform=linux/amd64 xhofe/alist:latest
-
-##-已完成 
---platform=linux/amd64 gdy666/lucky:2.14.0
+##-已完成 --platform=linux/amd64 xhofe/alist:latest
+##-已完成 --platform=linux/amd64 gdy666/lucky:2.14.0
 
 ##-已完成 --platform=linux/amd64  gotify/server
 ##  gotify下载后的映像名字：registry.cn-hangzhou.aliyuncs.com/pull-images/linux_amd64_server
@@ -95,7 +78,8 @@
 ##-已完成 --platform=linux/amd64 4gray/iptvnator-backend
 ##-已完成 --platform=linux/amd64 zhongpei/smartping 
 ##-已完成 --platform=linux/amd64 mzz2017/v2raya
---platform=linux/amd64 adguard/adguardhome
+##-已完成 --platform=linux/amd64 adguard/adguardhome
+--platform=linux/amd64 stilleshan/frps
 
 #--------------------------------------------------------------------------------------------------------------------#
 
@@ -109,3 +93,9 @@
 ##-已完成 --platform=linux/aarch64 portainer/portainer-ce:2.21.4
 ##-已完成 --platform=linux/aarch64 corentinth/it-tools
 ##-已完成 --platform=linux/aarch64 mzz2017/v2raya
+##-已完成 --platform=linux/aarch64 amir20/dozzle
+
+##-已完成 --platform=linux/aarch64 mongo:5.0
+##-已完成 --platform=linux/aarch64 graylog/graylog:6.1
+##-已完成 --platform=linux/aarch64 graylog/graylog-datanode:6.1
+
