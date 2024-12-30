@@ -98,4 +98,4 @@
 ##-已完成 --platform=linux/aarch64 mongo:5.0
 ##-已完成 --platform=linux/aarch64 graylog/graylog:6.1
 ##-已完成 --platform=linux/aarch64 graylog/graylog-datanode:6.1
-
+--platform=linux/aarch64 nginx
