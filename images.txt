@@ -23,6 +23,9 @@
 ##-已完成 --platform=linux/amd64  redis
 ##-已完成 --platform=linux/amd64 jumpserver/jms_all
 
+##-已完成 
+--platform=linux/amd64 redis:7.2.7
+
 ## zabbix留存
 ##-已完成 --platform=linux/amd64 zabbix/zabbix-java-gateway:alpine-6.2-latest
 ##-已完成 --platform=linux/amd64  zabbix/zabbix-server-mysql:6.2-alpine-latest
