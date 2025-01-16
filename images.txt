@@ -15,6 +15,9 @@
 #--------------------------------------------------------------------------------------------------------------------#
 #AMD64，纯64位 = X86-64
 
+
+--platform=linux/amd64 woahbase/alpine-chromium
+
 ##-已完成 --platform=linux/amd64 amir20/dozzle
 ##-已完成 --platform=linux/amd64 wcjiang/linux-command 
 
