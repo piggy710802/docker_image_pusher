@@ -73,6 +73,8 @@
 
 ##-已完成 --platform=linux/amd64 oldiy/chrome-novnc:latest
 ##-已完成 --platform=linux/amd64 oldiy/firefox-novnc
+--platform=linux/amd64 vital987/chrome-novnc
+
 
 ##-已完成 --platform=linux/amd64 johngong/calibre-web:latest
 ##-已完成 --platform=linux/amd64 helloz/onenav
