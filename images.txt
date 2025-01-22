@@ -41,6 +41,9 @@
 ##-已完成 --platform=linux/amd64 louislam/uptime-kuma:2.0.0-beta.0
 
 ##-已完成 --platform=linux/amd64 daniloancilotto/phpvirtualbox:5.2-1
+
+--platform=linux/amd64 jazzdd/phpvirtualbox
+
 ##-已完成 --platform=linux/amd64 stilleshan/frps
 ##-已完成 --platform=linux/amd64 grafana/grafana
 ##-已完成 --platform=linux/amd64 realwang/wol-web
