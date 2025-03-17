@@ -60,7 +60,8 @@
 ##-已完成 --platform=linux/amd64 containrrr/watchtower
 ##-已完成 --platform=linux/amd64 lissy93/web-check
 ##-已完成 --platform=linux/amd64 aceberg/watchyourlan
-##-已完成 --platform=linux/amd64 frooodle/s-pdf
+##-已完成 
+--platform=linux/amd64 frooodle/s-pdf:0.44.2
 ##-已完成 --platform=linux/amd64 corentinth/it-tools
 ##-已完成 --platform=linux/amd64 usual2970/certimate
 ##-已完成 --platform=linux/amd64 nginx
