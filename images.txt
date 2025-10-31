@@ -98,7 +98,8 @@
 ##-已完成 --platform=linux/amd64 4gray/iptvnator-backend
 ##-已完成 --platform=linux/amd64 zhongpei/smartping 
 ##-已完成 --platform=linux/amd64 mzz2017/v2raya
-##-已完成 --platform=linux/amd64 adguard/adguardhome
+##-已完成 
+--platform=linux/amd64 adguard/adguardhome
 ##-已完成 --platform=linux/amd64 stilleshan/frps
 
 #--------------------------------------------------------------------------------------------------------------------#
