@@ -21,7 +21,8 @@
 ##-已完成 --platform=linux/amd64 pymumu/smartdns
 ##-已完成 --platform=linux/amd64 ghostry/smartdns:latest
 
-##-已完成 --platform=linux/amd64 amir20/dozzle
+##-已完成 
+--platform=linux/amd64 amir20/dozzle
 ##-已完成 --platform=linux/amd64 wcjiang/linux-command 
 
 ## Jumpserver留存
