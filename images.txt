@@ -46,7 +46,8 @@
 ##-已完成 --platform=linux/amd64 guacamole/guacamole
 ##-已完成 --platform=linux/amd64 celaraze/chemex
 ##-已完成 --platform=linux/amd64 tomcat:8.5.64
-##-已完成 --platform=linux/amd64 louislam/uptime-kuma:2.0.0-beta.0
+##-已完成 
+--platform=linux/amd64 louislam/uptime-kuma
 
 ##-phpvirtualbox同步的来源是不同的，但同步后的映像名字相同：linux_amd64_phpvirtualbox
 ##-已完成(对应版本：latest) --platform=linux/amd64 jazzdd/phpvirtualbox
