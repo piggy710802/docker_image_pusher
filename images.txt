@@ -89,9 +89,11 @@
 ##-已完成 
 --platform=linux/amd64 analogic/poste.io:latest
 
-##-已完成 --platform=linux/amd64 oldiy/chrome-novnc:latest
+##-已完成 
+--platform=linux/amd64 oldiy/chrome-novnc:latest
 ##-已完成 --platform=linux/amd64 oldiy/firefox-novnc
-##-已完成(该版本在DSM6下不出现空白页面的问题) --platform=linux/amd64 vital987/chrome-novnc
+##-已完成(该版本在DSM6下不出现空白页面的问题) 
+--platform=linux/amd64 vital987/chrome-novnc
 
 ##-已完成 
 --platform=linux/amd64 johngong/calibre-web:latest
