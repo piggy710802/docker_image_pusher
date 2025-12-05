@@ -37,7 +37,6 @@
 ##-已完成 --platform=linux/amd64 zabbix/zabbix-agent:alpine-6.2-latest
 
 #--------------------------------------------------------------------------------------------------------------------#
-
 ##  办公室在用
 
 ##-已完成 
@@ -78,10 +77,13 @@
 
 ##-留存，未用 --platform=linux/amd64 samwaf/samwaf
 
+
 #--------------------------------------------------------------------------------------------------------------------#
 ## 家里黑群在用
 ##-已完成 
---platform=linux/amd64 usual2970/certimate
+# --platform=linux/amd64 usual2970/certimate
+# 0.3.19版本后：如果你正在使用 Docker 部署 Certimate，请切换镜像名 usual2970/certimate 为 certimate/certimate。原镜像后续不再有版本更新。
+--platform=linux/amd64 certimate/certimate
 
 ##-已完成 
 --platform=linux/amd64 nyanmisaka/jellyfin:latest
