@@ -6,13 +6,12 @@
 #--------------------------------------------------------------------------------------------------------------------#
 #x86，纯32位 
 # --platform=linux/x86
-
 #--------------------------------------------------------------------------------------------------------------------#
 #aarch32，是32位执行态
 # --platform=linux/aarch32
-
-
 #--------------------------------------------------------------------------------------------------------------------#
+
+
 #AMD64，纯64位 = X86-64
 --platform=linux/amd64 ghcr.io/coracoo/d2c:latest
 --platform=linux/amd64 openlistteam/openlist:latest
@@ -21,7 +20,6 @@
 
 ## 目前在用的是pymumu的版本，是官方版本。在2.177上部署
 ##-已完成 --platform=linux/amd64 pymumu/smartdns
-##-已完成 --platform=linux/amd64 ghostry/smartdns:latest
 
 ##-已完成 --platform=linux/amd64 amir20/dozzle
 ##-已完成 --platform=linux/amd64 wcjiang/linux-command 
@@ -38,6 +36,8 @@
 ##-已完成 --platform=linux/amd64 zabbix/zabbix-web-nginx-mysql:alpine-6.2-latest
 ##-已完成 --platform=linux/amd64 zabbix/zabbix-agent:alpine-6.2-latest
 
+#--------------------------------------------------------------------------------------------------------------------#
+
 ##  办公室在用
 
 ##-已完成 
@@ -47,15 +47,12 @@
 ##-已完成 --platform=linux/amd64 guacamole/guacamole
 ##-已完成 --platform=linux/amd64 celaraze/chemex
 ##-已完成 --platform=linux/amd64 tomcat:8.5.64
-##-已完成 
---platform=linux/amd64 louislam/uptime-kuma:2.0.2
 
 ##-phpvirtualbox同步的来源是不同的，但同步后的映像名字相同：linux_amd64_phpvirtualbox
 ##-已完成(对应版本：latest) --platform=linux/amd64 jazzdd/phpvirtualbox
 ##-已完成(对应版本：5.2-1) --platform=linux/amd64 daniloancilotto/phpvirtualbox:5.2-1
 ##-已完成(对应版本：6.1-0) --platform=linux/amd64 daniloancilotto/phpvirtualbox:6.1-0
 
-##-已完成 --platform=linux/amd64 stilleshan/frps
 ##-已完成 --platform=linux/amd64 grafana/grafana
 ##-已完成 --platform=linux/amd64 realwang/wol-web
 ##-已完成 --platform=linux/amd64 mikesplain/openvas:latest
@@ -71,9 +68,9 @@
 ##-已完成 
 --platform=linux/amd64 frooodle/s-pdf:0.44.2
 --platform=linux/amd64 frooodle/s-pdf:0.29.0
+--platform=linux/amd64 frooodle/s-pdf:latest
 
 ##-已完成 --platform=linux/amd64 corentinth/it-tools
-##-已完成 --platform=linux/amd64 usual2970/certimate
 ##-已完成 --platform=linux/amd64 nginx
 
 ##-已完成 钓鱼邮件测试平台 --platform=linux/amd64 gophish/gophish
@@ -81,18 +78,24 @@
 
 ##-留存，未用 --platform=linux/amd64 samwaf/samwaf
 
-
+#--------------------------------------------------------------------------------------------------------------------#
 ## 家里黑群在用
-##-已完成 --platform=linux/amd64 nyanmisaka/jellyfin:latest
+##-已完成 
+--platform=linux/amd64 usual2970/certimate
+
+##-已完成 
+--platform=linux/amd64 nyanmisaka/jellyfin:latest
 ##-已完成 
 --platform=linux/amd64 vaultwarden/server:latest
 ##-已完成 
 --platform=linux/amd64 analogic/poste.io:latest
 
 ##-已完成 
---platform=linux/amd64 oldiy/chrome-novnc:latest
+##-已完成 --platform=linux/amd64 oldiy/chrome-novnc:latest
 ##-已完成 --platform=linux/amd64 oldiy/firefox-novnc
+
 ##-已完成(该版本在DSM6下不出现空白页面的问题) 
+##-目前在用版本，上面两个暂时不用了(20251205）
 --platform=linux/amd64 vital987/chrome-novnc
 
 ##-已完成 
@@ -109,7 +112,8 @@
 --platform=linux/amd64  gotify/server
 ##  gotify下载后的映像名字：linux_amd64_server
 
-##-已完成 --platform=linux/amd64 herberthe0229/iptv-sources:latest
+##-已完成 
+--platform=linux/amd64 herberthe0229/iptv-sources:latest
 ##-已完成 --platform=linux/amd64 4gray/iptvnator
 ##-已完成 --platform=linux/amd64 4gray/iptvnator-backend
 ##-已完成 --platform=linux/amd64 zhongpei/smartping 
