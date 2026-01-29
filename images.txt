@@ -104,6 +104,7 @@
 ## --platform=linux/amd64 vital987/chrome-novnc
 
 ##-(20260129）,家里的飞牛部署后效果很好，目前在用。上面的vita1987后续将作废。
+##-生成后的镜像名字：linux_amd64_trim-chromium
 --platform=linux/amd64 registry.cn-guangzhou.aliyuncs.com/fnapp/trim-chromium
 
 
