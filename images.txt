@@ -82,7 +82,7 @@
 ## 家里黑群在用
 ##-已完成 
 ## 
---platform=linux/amd64 usual2970/certimate:0.2.24-beta
+## --platform=linux/amd64 usual2970/certimate:0.2.24-beta (20260129已经无法镜像了）
 # 0.3.19版本后：如果你正在使用 Docker 部署 Certimate，请切换镜像名 usual2970/certimate 为 certimate/certimate。原镜像后续不再有版本更新。
 # 新版本整体没有感觉有很大的功能改进。
 
