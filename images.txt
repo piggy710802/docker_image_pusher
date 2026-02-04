@@ -27,7 +27,7 @@
 ## Jumpserver留存
 ##-已完成 
 ##-0.7中在用的zabbix只能在8.0.34-1.e18版本中。（20260204）
---platform=linux/amd64 library/mysql:8.0.34-1.e18
+--platform=linux/amd64 library/mysql:8.0.4
 ##-已完成 --platform=linux/amd64 jumpserver/jms_all
 ##-已完成 --platform=linux/amd64 redis
 ##-已完成 --platform=linux/amd64 redis:7.2.7
