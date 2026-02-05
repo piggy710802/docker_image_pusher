@@ -26,9 +26,7 @@
 
 ## Jumpserver留存
 ##-已完成 
-##-0.7中在用的zabbix只能在8.0.34-1.e18版本中。（20260204）
---platform=linux/amd64 library/mysql:8.0.4
---platform=linux/amd64 library/mysql:8.0.34
+##-0.7中使用的myslq数据库是用的8.0.34-1.e18版本中创建的。迁移时需要注意版本匹配，后续可以使用如下版本（20260204）
 --platform=linux/amd64 library/mysql:8.0.35
 ##-已完成 --platform=linux/amd64 jumpserver/jms_all
 ##-已完成 --platform=linux/amd64 redis
@@ -45,6 +43,7 @@
 
 ##-已完成 
 --platform=linux/amd64 portainer/portainer-ce:2.33.6
+--platform=linux/amd64 portainer/agent
 
 ##-已完成 --platform=linux/amd64 guacamole/guacd
 ##-已完成 --platform=linux/amd64 guacamole/guacamole
