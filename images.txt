@@ -11,6 +11,7 @@
 # --platform=linux/aarch32
 #--------------------------------------------------------------------------------------------------------------------#
 
+--platform=linux/amd64 develop767/migu_video
 
 #AMD64，纯64位 = X86-64
 --platform=linux/amd64 ghcr.io/coracoo/d2c:latest
