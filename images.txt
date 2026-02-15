@@ -10,7 +10,7 @@
 #aarch32，是32位执行态
 # --platform=linux/aarch32
 #--------------------------------------------------------------------------------------------------------------------#
---platform=linux/amd64 dhi/python
+--platform=linux/amd64 python:3.13
 --platform=linux/amd64 develop767/migu_video
 
 #AMD64，纯64位 = X86-64
