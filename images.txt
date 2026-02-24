@@ -12,6 +12,7 @@
 #--------------------------------------------------------------------------------------------------------------------#
 --platform=linux/amd64 python:3.13
 --platform=linux/amd64 develop767/migu_video
+--platform=linux/amd64 cqshushu/iptv-spider:v2.0.5
 
 #AMD64，纯64位 = X86-64
 --platform=linux/amd64 ghcr.io/coracoo/d2c:latest
