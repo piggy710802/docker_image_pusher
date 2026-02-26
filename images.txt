@@ -50,7 +50,7 @@
 ##  办公室在用
 
 ##-已完成 
---platform=linux/amd64 portainer/portainer-ce:2.33.7
+--platform=linux/amd64 portainer/portainer-ce:2.39
 --platform=linux/amd64 portainer/agent
 
 ##-已完成 --platform=linux/amd64 guacamole/guacd
