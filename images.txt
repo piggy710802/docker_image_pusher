@@ -19,15 +19,12 @@
 
 --platform=linux/amd64 develop767/migu_video
 --platform=linux/amd64 cqshushu/iptv-spider:v2.0.5
-
---platform=linux/amd64 ghcr.io/fish2018/pansou-web
---platform=linux/amd64 lampon/pancheck
 --platform=linux/amd64 lampon/omnibox
 --platform=linux/amd64 panda-995/solara-music
+
+--platform=linux/amd64 ghcr.io/fish2018/pansou-web
 --platform=linux/amd64 markcxx/coco-downloader
-
 --platform=linux/amd64 ghcr.io/yuexps/2fmusic:latest
-
 
 
 ## smartdns 目前在用的是pymumu的版本，是官方版本。在2.177上部署
