@@ -14,18 +14,16 @@
 
 
 #AMD64，纯64位 = X86-64
---platform=linux/amd64 ghcr.io/coracoo/d2c:latest
---platform=linux/amd64 openlistteam/openlist:latest
+# --platform=linux/amd64 ghcr.io/coracoo/d2c:latest
+# --platform=linux/amd64 openlistteam/openlist:latest
 
 --platform=linux/amd64 develop767/migu_video
 --platform=linux/amd64 cqshushu/iptv-spider:v2.0.5
 --platform=linux/amd64 lampon/omnibox
-# --platform=linux/amd64 panda-995/solara-music
-
 --platform=linux/amd64 ghcr.io/fish2018/pansou-web
 --platform=linux/amd64 markcxx/coco-downloader
 --platform=linux/amd64 ghcr.io/yuexps/2fmusic:latest
-
+--platform=linux/amd64 aexus/solara-music
 
 ## smartdns 目前在用的是pymumu的版本，是官方版本。在2.177上部署
 ##-已完成 --platform=linux/amd64 pymumu/smartdns
@@ -37,7 +35,7 @@
 ## Jumpserver留存
 ##-已完成 
 ##-0.7中使用的myslq数据库是用的8.0.34-1.e18版本中创建的。迁移时需要注意版本匹配，后续可以使用如下版本（20260204）
---platform=linux/amd64 library/mysql:8.0.35
+# --platform=linux/amd64 library/mysql:8.0.35
 ##-已完成 --platform=linux/amd64 jumpserver/jms_all
 ##-已完成 --platform=linux/amd64 redis
 ##-已完成 --platform=linux/amd64 redis:7.2.7
