@@ -25,8 +25,9 @@
 --platform=linux/amd64 ghcr.io/yuexps/2fmusic:latest
 --platform=linux/amd64 aexus/solara-music
 
-## smartdns 目前在用的是pymumu的版本，是官方版本。在2.177上部署
-##-已完成 --platform=linux/amd64 pymumu/smartdns
+## smartdns 目前在用的是pymumu的版本，是官方版本。在pve171上部署
+##-已完成 
+--platform=linux/amd64 pymumu/smartdns
 
 ##-已完成 
 --platform=linux/amd64 amir20/dozzle
